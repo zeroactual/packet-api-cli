@@ -1,4 +1,4 @@
-#Packet.net CLI
+# Packet.net CLI
 Provides a simple CLI to Packet's API
 
 Commands:
